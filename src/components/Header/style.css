@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: cyan;
+}
+.headerMenu {
+    margin:15px 0;
+
+}
+.headerMenu h1{
+    float: left;
+    margin-top: -5px;
+    margin-right:50px;
+    color: green;
+}
+
+.headerMenu a {
+    display: inline-block;
+    margin:0 20px;
+    text-decoration: none;
+    color:rgba(25,25,255);
+    font: size 12;
+    letter-spacing:1.2px
+}
+.headerMenu a:hover {
+    color:#c81912;
+}

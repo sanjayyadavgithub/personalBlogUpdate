@@ -1,0 +1,19 @@
+.logo{
+    text-align: center;
+
+}
+.logo a{
+    font-family: 'Dancing Script',cursive;
+    font-size: 50px;
+    text-decoration: none;
+    color:#621055;
+    background_color:#f88020;
+}
+
+.logo1{
+    width:200px;
+    border-radius:40%;
+    height: 150px;
+    display : block;
+    margin-left: 550px;
+}
